@@ -3,7 +3,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadiAhmad&theme=dark&layout=compact"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=AsadiAhmad&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=calm_pink" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink&show_icons=true" alt="GitHub Stats" />
 </div>
 
 
