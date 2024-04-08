@@ -1,5 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AsadiAhmad)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AsadiAhmad&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" style="margin: auto;"><img src="https://streak-stats.demolab.com?user=AsadiAhmad&theme=dark" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
