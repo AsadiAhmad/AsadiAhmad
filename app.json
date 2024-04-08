@@ -1,0 +1,31 @@
+{
+  "name": "GitHub Readme Streak Stats",
+  "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README.",
+  "repository": "https://github.com/DenverCoder1/github-readme-streak-stats/",
+  "logo": "https://i.imgur.com/Z4bDOxC.png",
+  "keywords": ["github", "dynamic", "readme", "contributions", "streak", "stats"],
+  "addons": [],
+  "env": {
+    "TOKEN": {
+      "description": "GitHub personal access token obtained from https://github.com/settings/tokens/new",
+      "required": true
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-apt"
+    },
+    {
+      "url": "https://github.com/DenverCoder1/heroku-buildpack-fonts-segoe-ui"
+    },
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
