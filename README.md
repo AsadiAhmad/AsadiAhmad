@@ -5,6 +5,9 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=AsadiAhmad&theme=calm_pink&show_icons=true" alt="GitHub Stats" />
 </div>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs" />
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop)
 
