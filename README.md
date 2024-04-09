@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AsadiAhmad&theme=calm_pink&show_icons=true" alt="GitHub Stats" />
 </div>
 <hr>
-<div display=flex padding=100px>
+<div display=flex>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop" margin: 0 10px;/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs" margin: 0 10px;/>
 </div>
