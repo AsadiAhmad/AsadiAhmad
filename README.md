@@ -21,6 +21,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=vue-dark" margin: 0 10px;/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=vue-dark" margin: 0 10px;/>
 </div>
+<h2>AI Algorithms</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/>
 <h2>Web Dev</h2>
 <div display=flex>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=merko" margin: 0 10px;/>
