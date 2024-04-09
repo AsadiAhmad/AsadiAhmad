@@ -52,5 +52,8 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Counter&theme=ocean_dark" margin: 0 10px;/>
 <h2>Compilers</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Compiler-Design&theme=blueberry" margin: 0 10px;/>
 <h2>Schedulers</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU-Scheduling&theme=blueberry" margin: 0 10px;/>
 <h2>Hardware</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU&theme=flag-india" margin: 0 10px;/>
