@@ -43,3 +43,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Hospital-Managment&theme=gruvbox" margin: 0 10px;/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Crime-Management&theme=noctis_minimus" margin: 0 10px;/>
 </div>
+<h2>Simulators</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Windows10Simulator&theme=gruvbox" margin: 0 10px;/>
+<h2>Calculators</h2>
+<div display=flex>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Truth-table&theme=gruvbox" margin: 0 10px;/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Derivation-Calculator&theme=city_lights" margin: 0 10px;/>
+</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Counter&theme=ocean_dark" margin: 0 10px;/>
+<h2>Compilers</h2>
+<h2>Schedulers</h2>
+<h2>Hardware</h2>
