@@ -22,3 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=merko" margin: 0 10px;/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs&theme=merko" margin: 0 10px;/>
 </div>
+<div display=flex>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV2&theme=merko" margin: 0 10px;/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV1&theme=merko" margin: 0 10px;/>
+</div>
