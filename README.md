@@ -7,6 +7,6 @@
 </div>
 <hr>
 <div display: flex justify-content: space-between>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop" margin: 0 10px;/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs" margin: 0 10px;/>
 </div>
