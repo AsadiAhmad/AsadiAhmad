@@ -14,7 +14,7 @@
 </div>
 <h2>Image Processing</h2>
 <div display=flex>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&tokyonight" margin: 0 10px;/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=tokyonight" margin: 0 10px;/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Car-Detection&theme=tokyonight" margin: 0 10px;/>
 </div>
 <h2>Web Dev</h2>
