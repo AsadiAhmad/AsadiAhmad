@@ -9,10 +9,10 @@
 <h2>NLP</h2>
 <h2>Web Dev</h2>
 <div display=flex>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop" margin: 0 10px;/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs" margin: 0 10px;/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sentiment-Analysis&theme=gruvbox_light" margin: 0 10px;/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Detect-Duplicated-Questions&theme=gruvbox_light" margin: 0 10px;/>
 </div>
 <div display=flex>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=merko" margin: 0 10px;/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs" margin: 0 10px;/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs&theme=merko" margin: 0 10px;/>
 </div>
