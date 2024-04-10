@@ -59,4 +59,9 @@
 <h2>Schedulers</h2>
 <a href="https://github.com/AsadiAhmad/CPU-Scheduling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU-Scheduling&theme=blueberry" margin: 0 10px;/></a>
 <h2>Hardware</h2>
-<a href="https://github.com/AsadiAhmad/CPU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU&theme=flag-india" margin: 0 10px;/></a>
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/CPU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU&theme=flag-india" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/ALU-8Bit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=ALU-8Bit&theme=nord" margin: 0 10px;/></a>
+</div>
+
+
