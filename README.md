@@ -63,5 +63,8 @@
     <a href="https://github.com/AsadiAhmad/CPU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU&theme=flag-india" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/ALU-8Bit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=ALU-8Bit&theme=nord" margin: 0 10px;/></a>
 </div>
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/Micro-Processor-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Micro-Processor-Calculator&theme=noctis_minimus" margin: 0 10px;/></a>
+</div>
 
 
