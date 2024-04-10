@@ -32,7 +32,10 @@
     <a href="https://github.com/AsadiAhmad/znucomputerV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV2&theme=cobalt" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/znucomputerV1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV1&theme=slateorange" margin: 0 10px;/></a>
 </div>
-<a href="https://github.com/AsadiAhmad/Blur-Effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Blur-Effect&theme=dracula" margin: 0 10px;/></a>
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/Blur-Effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Blur-Effect&theme=dracula" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Dark-Them-Button"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dark-Them-Button&theme=dracula" margin: 0 10px;/></a>
+</div>
 <h2>Game Dev</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/PlantsVSZombies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=PlantsVSZombies&theme=gruvbox" margin: 0 10px;/></a>
