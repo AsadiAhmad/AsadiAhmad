@@ -12,6 +12,9 @@
     <a href="https://github.com/AsadiAhmad/Sentiment-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sentiment-Analysis&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Detect-Duplicated-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Detect-Duplicated-Questions&theme=gruvbox_light" margin: 0 10px;/></a>
 </div>
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/Naive-Base-Classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Naive-Base-Classifier&theme=gruvbox_light"/></a>
+</div>
 <h2>Image Processing</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=tokyonight" margin: 0 10px;/></a>
