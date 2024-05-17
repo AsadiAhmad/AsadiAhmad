@@ -24,6 +24,9 @@
     <a href="https://github.com/AsadiAhmad/Custom-Camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=vue-dark" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=vue-dark" margin: 0 10px;/></a>
 </div>
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/Image-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Enhancement&theme=vue-dark" margin: 0 10px;/></a>
+</div>
 <h2>AI Algorithms</h2>
 <a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
 <h2>Web Dev</h2>
