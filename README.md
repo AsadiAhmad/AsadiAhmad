@@ -24,6 +24,9 @@
     <a href="https://github.com/AsadiAhmad/Edit-Distance-Spark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Edit-Distance-Spark&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Dictionary-Spark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dictionary-Spark&theme=gruvbox_light"/></a>
 </div>
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/Word-Embeding-CNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Embeding-CNN&theme=gruvbox_light"/></a>
+</div>
 <h2>Image Processing</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=tokyonight" margin: 0 10px;/></a>
