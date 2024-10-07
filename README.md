@@ -44,10 +44,15 @@
 <a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
 <h2>Algorithms Design</h2>
 <a href="https://github.com/AsadiAhmad/Square-root-DC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Square-root-DC&theme=gruvbox" margin: 0 10px;/></a>
+
 <h2>Web Dev</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Online-Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=merko" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Notico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Notico&theme=merko" margin: 0 10px;/></a>
+</div>
+<div display=flex>
     <a href="https://github.com/AsadiAhmad/Simple-Signup-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs&theme=merko" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Kong-API-Gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Kong-API-Gateway&theme=vue" margin: 0 10px;/></a>
 </div>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/znucomputerV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV2&theme=cobalt" margin: 0 10px;/></a>
@@ -57,9 +62,7 @@
     <a href="https://github.com/AsadiAhmad/Blur-Effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Blur-Effect&theme=dracula" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Dark-Them-Button"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dark-Them-Button&theme=dracula" margin: 0 10px;/></a>
 </div>
-<div display=flex>
-    <a href="https://github.com/AsadiAhmad/Kong-API-Gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Kong-API-Gateway&theme=vue" margin: 0 10px;/></a>
-</div> 
+
 <h2>Game Dev</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/PlantsVSZombies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=PlantsVSZombies&theme=gruvbox" margin: 0 10px;/></a>
