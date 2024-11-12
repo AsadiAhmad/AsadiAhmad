@@ -42,7 +42,7 @@
 </div>
 <h2>Machine Learning</h2>
 <div display=flex>
-    <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=calm_pink" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=date_night" margin: 0 10px;/></a>
 </div>
 <h2>AI Algorithms</h2>
 <a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
