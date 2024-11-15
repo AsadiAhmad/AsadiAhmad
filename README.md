@@ -43,7 +43,7 @@
 <h2>Machine Learning</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=solarized-light" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Perceptron-From-Scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Perceptron-From-Scratch&theme=solarized-light" margin: 0 10px;/></a>
+    
 </div>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/LDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=LDA&theme=solarized-light" margin: 0 10px;/></a>
