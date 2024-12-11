@@ -49,6 +49,9 @@
     <a href="https://github.com/AsadiAhmad/LDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=LDA&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=PCA&theme=solarized-light" margin: 0 10px;/></a>
 </div>
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/Partition-Based-Clustering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Partition-Based-Clustering&theme=solarized-light" margin: 0 10px;/></a>
+</div>
 <h2>AI Algorithms</h2>
 <a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
 <h2>Algorithms Design</h2>
