@@ -5,9 +5,9 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=AsadiAhmad&theme=calm_pink&show_icons=true" alt="GitHub Stats" />
 </div>
-<hr>
 
 
+## 💻 My Projects
 <h2>NLP</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Sentiment-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sentiment-Analysis&theme=gruvbox_light"/></a>
