@@ -11,115 +11,130 @@
 
 
 <h2 align=center> 💻 My Projects </h2>
-<h3>NLP</h3>
+<h3 align=center>NLP</h3>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Sentiment-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sentiment-Analysis&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Detect-Duplicated-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Detect-Duplicated-Questions&theme=gruvbox_light" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Naive-Base-Classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Naive-Base-Classifier&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Word-Embedding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Embedding&theme=gruvbox_light"/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Ngram-Spark-Wikipedia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Ngram-Spark-Wikipedia&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Word-Counter-Spark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Counter-Spark&theme=gruvbox_light"/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Edit-Distance-Spark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Edit-Distance-Spark&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Dictionary-Spark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dictionary-Spark&theme=gruvbox_light"/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Word-Embeding-CNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Embeding-CNN&theme=gruvbox_light"/></a>
 </div>
 
 
-<h3>Image Processing</h3>
-<div display=flex>
+<h3 align=center>Image Processing</h3>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=tokyonight" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Car-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Car-Detection&theme=tokyonight" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Steganography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Steganography&theme=vue-dark" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=vue-dark" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Custom-Camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=vue-dark" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Image-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Enhancement&theme=vue-dark" margin: 0 10px;/></a>
 </div>
 
 
-<h3>Machine Learning</h3>
-<div display=flex>
+<h3 align=center>Machine Learning</h3>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Perceptron-From-Scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Perceptron-From-Scratch&theme=solarized-light" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Loan-Prediction-SVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Loan-Prediction-SVM&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Partition-Based-Clustering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Partition-Based-Clustering&theme=solarized-light" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/LDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=LDA&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=PCA&theme=solarized-light" margin: 0 10px;/></a>
 </div>
 
 
-<h3>AI Algorithms</h3>
-<a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
+<h3 align=center>AI Algorithms</h3>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
+</div>
 
-
-<h3>Algorithms Design</h3>
-<div display=flex>
+<h3 align=center>Algorithms Design</h3>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Square-root-DC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Square-root-DC&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Max-Independent-Set"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Max-Independent-Set&theme=solarized-dark" margin: 0 10px;/></a>
 </div>
 
 
-<h3>Web Dev</h3>
-<div display=flex>
+<h3 align=center>Web Dev</h3>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Online-Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=merko" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Notico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Notico&theme=merko" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Simple-Signup-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs&theme=merko" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Kong-API-Gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Kong-API-Gateway&theme=vue" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/znucomputerV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV2&theme=cobalt" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/znucomputerV1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV1&theme=slateorange" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Blur-Effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Blur-Effect&theme=dracula" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Dark-Them-Button"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dark-Them-Button&theme=dracula" margin: 0 10px;/></a>
 </div>
 
-<h3>Game Dev</h3>
-<div display=flex>
+<h3 align=center>Game Dev</h3>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/PlantsVSZombies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=PlantsVSZombies&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Atari-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Atari-Game&theme=noctis_minimus" margin: 0 10px;/></a>
 </div>
-<h2>Managment Apps</h2>
-<div display=flex>
+<h2 align=center>Managment Apps</h2>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Hospital-Managment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Hospital-Managment&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Crime-Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Crime-Management&theme=noctis_minimus" margin: 0 10px;/></a>
 </div>
-<h2>Simulators</h2>
-<a href="https://github.com/AsadiAhmad/Windows10Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Windows10Simulator&theme=gruvbox" margin: 0 10px;/></a>
-<h2>Calculators</h2>
-<div display=flex>
+<h2 align=center>Simulators</h2>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Windows10Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Windows10Simulator&theme=gruvbox" margin: 0 10px;/></a>
+</div>
+<h2 align=center>Calculators</h2>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Truth-table"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Truth-table&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Derivation-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Derivation-Calculator&theme=city_lights" margin: 0 10px;/></a>
 </div>
-<a href="https://github.com/AsadiAhmad/Word-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Counter&theme=ocean_dark" margin: 0 10px;/></a>
-<h2>Compilers</h2>
-<a href="https://github.com/AsadiAhmad/Compiler-Design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Compiler-Design&theme=blueberry" margin: 0 10px;/></a>
-<h2>Schedulers</h2>
-<a href="https://github.com/AsadiAhmad/CPU-Scheduling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU-Scheduling&theme=blueberry" margin: 0 10px;/></a>
-<h2>Hardware</h2>
-<div display=flex>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Word-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Counter&theme=ocean_dark" margin: 0 10px;/></a>
+</div>
+
+
+<h2 align=center>Compilers</h2>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Compiler-Design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Compiler-Design&theme=blueberry" margin: 0 10px;/></a>
+</div>
+
+
+<h2 align=center>Schedulers</h2>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/CPU-Scheduling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU-Scheduling&theme=blueberry" margin: 0 10px;/></a>
+</div>
+
+
+<h2 align=center>Hardware</h2>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/CPU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU&theme=flag-india" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/ALU-8Bit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=ALU-8Bit&theme=nord" margin: 0 10px;/></a>
 </div>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Micro-Processor-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Micro-Processor-Calculator&theme=noctis_minimus" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Switch-Matrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Switch-Matrix&theme=noctis_minimus" margin: 0 10px;/></a>
 </div>
