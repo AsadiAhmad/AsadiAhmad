@@ -1,3 +1,6 @@
+<h1> Ahmad Asadi </h1>
+
+<h2> 🔥 Github States </h2>
 <div align=center>
     <a href="https://git.io/streak-stats" style="margin: auto;"><img src="https://streak-stats.demolab.com?user=AsadiAhmad&theme=dark" alt="GitHub Streak" /></a>
     <br>
@@ -30,7 +33,7 @@
 </div>
 
 
-<h2>Image Processing</h2>
+<h3>Image Processing</h3>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=tokyonight" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Car-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Car-Detection&theme=tokyonight" margin: 0 10px;/></a>
@@ -45,7 +48,7 @@
 </div>
 
 
-<h2>Machine Learning</h2>
+<h3>Machine Learning</h3>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Perceptron-From-Scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Perceptron-From-Scratch&theme=solarized-light" margin: 0 10px;/></a>
@@ -60,18 +63,18 @@
 </div>
 
 
-<h2>AI Algorithms</h2>
+<h3>AI Algorithms</h3>
 <a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
 
 
-<h2>Algorithms Design</h2>
+<h3>Algorithms Design</h3>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Square-root-DC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Square-root-DC&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Max-Independent-Set"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Max-Independent-Set&theme=solarized-dark" margin: 0 10px;/></a>
 </div>
 
 
-<h2>Web Dev</h2>
+<h3>Web Dev</h3>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Online-Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=merko" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Notico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Notico&theme=merko" margin: 0 10px;/></a>
@@ -89,7 +92,7 @@
     <a href="https://github.com/AsadiAhmad/Dark-Them-Button"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dark-Them-Button&theme=dracula" margin: 0 10px;/></a>
 </div>
 
-<h2>Game Dev</h2>
+<h3>Game Dev</h3>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/PlantsVSZombies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=PlantsVSZombies&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Atari-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Atari-Game&theme=noctis_minimus" margin: 0 10px;/></a>
@@ -120,5 +123,3 @@
     <a href="https://github.com/AsadiAhmad/Micro-Processor-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Micro-Processor-Calculator&theme=noctis_minimus" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Switch-Matrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Switch-Matrix&theme=noctis_minimus" margin: 0 10px;/></a>
 </div>
-
-
