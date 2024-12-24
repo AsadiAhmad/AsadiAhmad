@@ -48,7 +48,7 @@
 </div>
 
 
-<h2 align=center>Machine Learning</h2>
+<h2 align=center> 🤖 Machine Learning ⚙️</h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Perceptron-From-Scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Perceptron-From-Scratch&theme=solarized-light" margin: 0 10px;/></a>
