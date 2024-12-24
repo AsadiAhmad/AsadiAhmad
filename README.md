@@ -1,6 +1,6 @@
 <h1 align=center> Ahmad Asadi </h1>
 
-<h2> 🔥 Github States </h2>
+<h2 align=center> 🔥 Github States </h2>
 <div align=center>
     <a href="https://git.io/streak-stats" style="margin: auto;"><img src="https://streak-stats.demolab.com?user=AsadiAhmad&theme=dark" alt="GitHub Streak" /></a>
     <br>
@@ -10,9 +10,9 @@
 </div>
 
 
-<h2> 💻 My Projects </h2>
+<h2 align=center> 💻 My Projects </h2>
 <h3>NLP</h3>
-<div display=flex>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Sentiment-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sentiment-Analysis&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Detect-Duplicated-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Detect-Duplicated-Questions&theme=gruvbox_light" margin: 0 10px;/></a>
 </div>
