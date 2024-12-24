@@ -11,7 +11,7 @@
 
 
 <h2 align=center> 💻 My Projects </h2>
-<h2 align=center>NLP</h2>
+<h2 align=center> 🗣️ NLP</h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Sentiment-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sentiment-Analysis&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Detect-Duplicated-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Detect-Duplicated-Questions&theme=gruvbox_light" margin: 0 10px;/></a>
