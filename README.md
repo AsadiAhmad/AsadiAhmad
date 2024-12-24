@@ -105,11 +105,13 @@
     <a href="https://github.com/AsadiAhmad/Hospital-Managment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Hospital-Managment&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Crime-Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Crime-Management&theme=noctis_minimus" margin: 0 10px;/></a>
 </div>
+
+
 <h2 align=center>Simulators</h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Windows10Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Windows10Simulator&theme=gruvbox" margin: 0 10px;/></a>
 </div>
-<h2 align=center>Calculators</h2>
+<h2 align=center> 🧮 Calculators </h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Truth-table"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Truth-table&theme=gruvbox" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Derivation-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Derivation-Calculator&theme=city_lights" margin: 0 10px;/></a>
@@ -119,19 +121,19 @@
 </div>
 
 
-<h2 align=center>Compilers</h2>
+<h2 align=center> 📜 Compilers</h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Compiler-Design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Compiler-Design&theme=blueberry" margin: 0 10px;/></a>
 </div>
 
 
-<h2 align=center>Schedulers</h2>
+<h2 align=center> 📅 Schedulers</h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/CPU-Scheduling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU-Scheduling&theme=blueberry" margin: 0 10px;/></a>
 </div>
 
 
-<h2 align=center>Hardware</h2>
+<h2 align=center> 🛠️ Hardware ⚙️ </h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/CPU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU&theme=flag-india" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/ALU-8Bit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=ALU-8Bit&theme=nord" margin: 0 10px;/></a>
