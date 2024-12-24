@@ -6,8 +6,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AsadiAhmad&theme=calm_pink&show_icons=true" alt="GitHub Stats" />
 </div>
 <hr>
-<h2>NLP</h2>
 
+
+<h2>NLP</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Sentiment-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sentiment-Analysis&theme=gruvbox_light"/></a>
     <a href="https://github.com/AsadiAhmad/Detect-Duplicated-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Detect-Duplicated-Questions&theme=gruvbox_light" margin: 0 10px;/></a>
@@ -27,6 +28,8 @@
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Word-Embeding-CNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Embeding-CNN&theme=gruvbox_light"/></a>
 </div>
+
+
 <h2>Image Processing</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=tokyonight" margin: 0 10px;/></a>
@@ -40,20 +43,28 @@
     <a href="https://github.com/AsadiAhmad/Custom-Camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=vue-dark" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Image-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Enhancement&theme=vue-dark" margin: 0 10px;/></a>
 </div>
+
+
 <h2>Machine Learning</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Perceptron-From-Scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Perceptron-From-Scratch&theme=solarized-light" margin: 0 10px;/></a>
 </div>
+
+<div display=flex>
+    <a href="https://github.com/AsadiAhmad/Partition-Based-Clustering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Partition-Based-Clustering&theme=solarized-light" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Loan-Prediction-SVM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Loan-Prediction-SVM&theme=solarized-light" margin: 0 10px;/></a>
+</div>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/LDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=LDA&theme=solarized-light" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=PCA&theme=solarized-light" margin: 0 10px;/></a>
 </div>
-<div display=flex>
-    <a href="https://github.com/AsadiAhmad/Partition-Based-Clustering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Partition-Based-Clustering&theme=solarized-light" margin: 0 10px;/></a>
-</div>
+
+
 <h2>AI Algorithms</h2>
 <a href="https://github.com/AsadiAhmad/Sudoku-Solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sudoku-Solver&theme=solarized-dark" margin: 0 10px;/></a>
+
+
 <h2>Algorithms Design</h2>
 <div display=flex>
     <a href="https://github.com/AsadiAhmad/Square-root-DC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Square-root-DC&theme=gruvbox" margin: 0 10px;/></a>
