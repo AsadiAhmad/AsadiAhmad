@@ -1,4 +1,4 @@
-<h1> Ahmad Asadi </h1>
+<h1 align=center> Ahmad Asadi </h1>
 
 <h2> 🔥 Github States </h2>
 <div align=center>
