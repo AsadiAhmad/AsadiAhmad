@@ -105,7 +105,7 @@
 
 <h2 align=center> 👨‍💼 Managment Apps</h2>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Hospital-Managment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Hospital-Managment&theme=gruvbox" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Hospital-Managment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Hospital-Managment&theme=noctis_minimus" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Crime-Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Crime-Management&theme=noctis_minimus" margin: 0 10px;/></a>
 </div>
 
