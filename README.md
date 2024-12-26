@@ -139,9 +139,9 @@
 <h2 align=center> 🛠️ Hardware ⚙️ </h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/CPU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=CPU&theme=flag-india" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/ALU-8Bit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=ALU-8Bit&theme=nord" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/ALU-8Bit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=ALU-8Bit&theme=flag-india" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Micro-Processor-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Micro-Processor-Calculator&theme=noctis_minimus" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Switch-Matrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Switch-Matrix&theme=noctis_minimus" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Micro-Processor-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Micro-Processor-Calculator&theme=flag-india" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Switch-Matrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Switch-Matrix&theme=flag-india" margin: 0 10px;/></a>
 </div>
