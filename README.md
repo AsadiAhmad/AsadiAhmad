@@ -61,7 +61,7 @@
     <a href="https://github.com/AsadiAhmad/Partition-Based-Clustering"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Partition-Based-Clustering&theme=solarized-light" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/LDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=House-Price-Prediction &theme=solarized-light" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/House-Price-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=House-Price-Prediction&theme=solarized-light" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/LDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=LDA&theme=solarized-light" margin: 0 10px;/></a>
