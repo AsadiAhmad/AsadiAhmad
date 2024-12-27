@@ -116,8 +116,8 @@
 </div>
 <h2 align=center> 🧮 Calculators </h2>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Truth-table"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Truth-table&theme=gruvbox" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Derivation-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Derivation-Calculator&theme=city_lights" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Truth-table"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Truth-table&theme=ocean_dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Derivation-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Derivation-Calculator&theme=ocean_dark" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Word-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Word-Counter&theme=ocean_dark" margin: 0 10px;/></a>
