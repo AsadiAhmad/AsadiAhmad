@@ -51,6 +51,12 @@
 </div>
 
 
+<h2 align=center>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; Neural Network </h2>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Steganography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=XOR-Learning&theme=vue-dark" margin: 0 10px;/></a>
+</div>
+
+
 <h2 align=center> 🤖 Machine Learning ⚙️</h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Image-Classification-LDA-and-PCA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Classification-LDA-and-PCA&theme=solarized-light" margin: 0 10px;/></a>
