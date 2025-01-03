@@ -83,20 +83,20 @@
 
 <h2 align=center> 🌐 Web Dev</h2>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Online-Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=merko" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Notico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Notico&theme=merko" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Online-Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Online-Shop&theme=vue" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Notico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Notico&theme=vue" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Simple-Signup-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs&theme=merko" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Simple-Signup-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Simple-Signup-Nodejs&theme=vue" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Kong-API-Gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Kong-API-Gateway&theme=vue" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/znucomputerV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV2&theme=cobalt" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/znucomputerV1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV1&theme=slateorange" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/znucomputerV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV2&theme=merko" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/znucomputerV1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=znucomputerV1&theme=merko" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Blur-Effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Blur-Effect&theme=dracula" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Dark-Them-Button"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dark-Them-Button&theme=dracula" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Blur-Effect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Blur-Effect&theme=merko" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Dark-Them-Button"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Dark-Them-Button&theme=merko" margin: 0 10px;/></a>
 </div>
 
 <h2 align=center> 🎮 Game Dev</h2>
