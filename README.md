@@ -51,10 +51,20 @@
 </div>
 
 
-<h2 display=flex align=center>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/> <p>Neural Network</p></h2>
-<div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Steganography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=XOR-Learning&theme=vue-dark" margin: 0 10px;/></a>
+<h2 style="display: flex; align-items: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
+         title="Python" alt="Python" width="30" height="30" 
+         style="margin-right: 10px;"/>
+    <p style="margin: 0;">Neural Network</p>
+</h2>
+
+<div style="display: flex; align-items: center;">
+    <a href="https://github.com/AsadiAhmad/Steganography">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=XOR-Learning&theme=vue-dark" 
+             style="margin: 0 10px;"/>
+    </a>
 </div>
+
 
 
 <h2 align=center> 🤖 Machine Learning ⚙️</h2>
