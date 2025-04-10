@@ -32,6 +32,9 @@
 
 
 <h2 align=center> 🗣️ Classic NLP ⚙️</h2>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/POS-Tagging"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=POS-Tagging&theme=gruvbox_light"/></a>
+</div>
 <h2 align=center> 🗣️ Neural NLP 🤖</h2>
 <h2 align=center> 🗣️ NLP</h2>
 <div display=flex align=center>
