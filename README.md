@@ -20,14 +20,18 @@
 </div>
 
 
-<h2 align=center> 🖼 Image Processing ⚙️</h2>
+<h2 align=center> 🖼 Image Processing ⚙️</h2> 
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Steganography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Steganography&theme=vue-dark" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=vue-dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Image-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Enhancement&theme=vue-dark" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Custom-Camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=vue-dark" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Image-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Enhancement&theme=vue-dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Camera-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Camera-Scanner&theme=vue-dark" margin: 0 10px;/></a>
+</div>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Paint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Paint&theme=vue-dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=vue-dark" margin: 0 10px;/></a>
 </div>
 
 
