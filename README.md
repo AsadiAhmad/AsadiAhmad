@@ -30,7 +30,10 @@
     <a href="https://github.com/AsadiAhmad/Camera-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Camera-Scanner&theme=vue-dark" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Digit-Binarization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Digit-Binarization&theme=vue-dark" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Paint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Paint&theme=vue-dark" margin: 0 10px;/></a>
+</div>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=vue-dark" margin: 0 10px;/></a>
 </div>
 
