@@ -69,7 +69,7 @@
 </div>
 
 
-<h2 align=center> Neural Network </h2>
+<h2 align=center> <img src="/Stickers/Neural-Network.png" width="25" height="25"/>&nbsp; Neural Network </h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/XOR-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=XOR-Learning&theme=vue" margin: 0 10px;/></a>
 </div>
