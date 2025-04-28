@@ -13,7 +13,7 @@
 <h2 align=center> 💻 My Projects </h2>
 
 
-<h2 align=center> 🖼 Computer Vision 🤖</h2>
+<h2 align=center> <img src="/Stickers/Image-Processing.png" width="25" height="25"/>&nbsp; 🖼 Computer Vision 🤖</h2>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=tokyonight" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Car-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Car-Detection&theme=tokyonight" margin: 0 10px;/></a>
