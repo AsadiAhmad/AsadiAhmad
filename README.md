@@ -39,7 +39,7 @@
 </div>
 
 
-<h2 align=center> <img src="/Stickers/IR.png" width="20" height="20"/>&nbsp; Information Retrieval (Text)</h2>
+<h2 align=center> <img src="/Stickers/IR.png" width="25" height="25"/>&nbsp; Information Retrieval (Text)</h2>
 
 
 <h2 align=center> 🗣️ Classic NLP ⚙️</h2>
