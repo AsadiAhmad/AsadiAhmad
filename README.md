@@ -40,6 +40,10 @@
 
 
 <h2 align=center> <img src="/Stickers/IR.png" width="30" height="30"/>&nbsp; Information Retrieval (Text)</h2>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Skip-Gram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Skip-Gram&theme=gruvbox_light" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/TF-IDF-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=TF-IDF-Model&theme=gruvbox_light" margin: 0 10px;/></a>
+</div>
 
 
 <h2 align=center> 🗣️ Classic NLP ⚙️</h2>
