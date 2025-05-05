@@ -24,19 +24,19 @@
 <h2 align=center> <img src="/Stickers/Image-Processing.png" width="30" height="30"/>&nbsp; Image Processing ⚙️</h2> 
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Steganography"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Steganography&theme=holi" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Image-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Enhancement&theme=vue-dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Image-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Enhancement&theme=holi" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Digit-Binarization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Digit-Binarization&theme=vue-dark" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Human-Skin-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Human-Skin-Detection&theme=vue-dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Digit-Binarization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Digit-Binarization&theme=holi" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Human-Skin-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Human-Skin-Detection&theme=holi" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Camera-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Camera-Scanner&theme=vue-dark" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/Custom-Camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=vue-dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Camera-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Camera-Scanner&theme=holi" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Custom-Camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=holi" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
-    <a href="https://github.com/AsadiAhmad/Paint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Paint&theme=vue-dark" margin: 0 10px;/></a>
-    <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=vue-dark" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Paint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Paint&theme=holi" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=holi" margin: 0 10px;/></a>
 </div>
 
 
