@@ -19,6 +19,14 @@
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=nightowl" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Car-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Car-Detection&theme=nightowl" margin: 0 10px;/></a>
 </div>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Face-Swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Face-Swap&theme=nightowl" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Colorize-Grayscale-Images"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Colorize-Grayscale-Images&theme=nightowl" margin: 0 10px;/></a>
+</div>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Deep-Face-Blurring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Deep-Face-Blurring&theme=nightowl" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Image-Matching"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Matching&theme=nightowl" margin: 0 10px;/></a>
+</div>
 
 
 <h2 align=center> <img src="/Stickers/Image-Processing.png" width="30" height="30"/>&nbsp; Image Processing ⚙️</h2> 
