@@ -43,6 +43,18 @@
     <a href="https://github.com/AsadiAhmad/Custom-Camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Custom-Camera&theme=holi" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Sun-Flower-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Sun-Flower-Counter&theme=holi" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Car-Counter-Morphology"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Car-Counter-Morphology&theme=holi" margin: 0 10px;/></a>
+</div>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Image-Skeletonizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Image-Skeletonizer&theme=holi" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Filtering-in-Frequency-Domain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Filtering-in-Frequency-Domain&theme=holi" margin: 0 10px;/></a>
+</div>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Morphology-Operators"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Morphology-Operators&theme=holi" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Hit-and-Miss"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Hit-and-Miss&theme=holi" margin: 0 10px;/></a>
+</div>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Paint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Paint&theme=holi" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/OpenCV-Intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=OpenCV-Intro&theme=holi" margin: 0 10px;/></a>
 </div>
