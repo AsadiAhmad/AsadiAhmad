@@ -16,12 +16,18 @@
 
 <h2 align=center> <img src="/Stickers/Computer-Vision.png" width="30" height="30"/>&nbsp; Computer Vision <img src="/Stickers/Neural-Network.png" width="30" height="30"/>&nbsp; 🤖</h2>
 <div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Gesture-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Gesture-Detection&theme=nightowl" margin: 0 10px;/></a>
+</div>
+<div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Traffic-sign-detection-using-yolo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Traffic-sign-detection-using-yolo&theme=nightowl" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Car-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Car-Detection&theme=nightowl" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Face-Swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Face-Swap&theme=nightowl" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Colorize-Grayscale-Images"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Colorize-Grayscale-Images&theme=nightowl" margin: 0 10px;/></a>
+<div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/Object-Detection-and-Tracking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Object-Detection-and-Tracking&theme=nightowl" margin: 0 10px;/></a>
+    <a href="https://github.com/AsadiAhmad/Face-Recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Face-Recognition&theme=nightowl" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
     <a href="https://github.com/AsadiAhmad/Deep-Face-Blurring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Deep-Face-Blurring&theme=nightowl" margin: 0 10px;/></a>
