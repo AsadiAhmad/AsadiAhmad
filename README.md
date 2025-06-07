@@ -16,6 +16,7 @@
 
 <h2 align=center> <img src="/Stickers/Computer-Vision.png" width="30" height="30"/>&nbsp; Computer Vision <img src="/Stickers/Neural-Network.png" width="30" height="30"/>&nbsp; 🤖</h2>
 <div display=flex align=center>
+    <a href="https://github.com/AsadiAhmad/100_Sports_Image_Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=100_Sports_Image_Classification&theme=nightowl" margin: 0 10px;/></a>
     <a href="https://github.com/AsadiAhmad/Gesture-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AsadiAhmad&repo=Gesture-Detection&theme=nightowl" margin: 0 10px;/></a>
 </div>
 <div display=flex align=center>
