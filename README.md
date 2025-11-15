@@ -9,7 +9,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=AsadiAhmad&theme=calm_pink&show_icons=true" alt="GitHub Stats" />
     <br>
-    <img alt="Check out AsadiAhmad's profile on stardev.io" src="https://stardev.io/developers/AsadiAhmad/badge/languages/global.svg"/>
+    <img src="https://stardev.io/developers/AsadiAhmad/badge/languages/global.svg" alt="Check out AsadiAhmad's profile on stardev.io"/>
 </div>
 
 
