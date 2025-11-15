@@ -8,6 +8,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadiAhmad&theme=dark&layout=compact"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=AsadiAhmad&theme=calm_pink&show_icons=true" alt="GitHub Stats" />
+    <br>
+    <a href="https://stardev.io/developers/AsadiAhmad"><img alt="Check out AsadiAhmad's profile on stardev.io" src="https://stardev.io/developers/AsadiAhmad/badge/languages/global.svg" /></a>
 </div>
 
 
