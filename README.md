@@ -12,6 +12,32 @@
     <a href="https://stardev.io/developers/AsadiAhmad"><img alt="Check out AsadiAhmad&apos;s profile on stardev.io" src="https://stardev.io/developers/AsadiAhmad/badge/languages/global.svg" /></a>
 </div>
 
+Information about the user 'AsadiAhmad'
+Total count of stars: 1675
+Total count of forks: 3
+Total count of watchers: 84
+leangues set: {'HTML', 'TypeScript', 'Batchfile', 'TeX', 'C++', 'Shell', 'C', 'CSS', 'Dockerfile', 'Python', 'Racket', 'Haskell', 'CMake', 'Perl', 'Assembly', 'Java', 'Jupyter Notebook', 'Objective-C', 'EJS', 'Objective-C++', 'JavaScript', 'Verilog', 'PHP', 'Cuda', 'Ruby'}
+sorted language: {'Jupyter Notebook': 49, 'Python': 18, 'CSS': 15, 'JavaScript': 13, 'HTML': 12, 'Java': 7, 'C': 6, 'TeX': 6, 'EJS': 3, 'Assembly': 2, 'Verilog': 1, 'Racket': 1, 'Dockerfile': 1, 'TypeScript': 1, 'Perl': 1, 'Objective-C': 1, 'Batchfile': 1, 'C++': 1, 'Shell': 1, 'Objective-C++': 1, 'Cuda': 1, 'CMake': 1, 'Ruby': 1, 'Haskell': 1, 'PHP': 1}
+Total Commits: 1815
+ُTotal Open Issues: 35
+Total Closed Issues: 11
+Total Issues: 24
+Total Issue Rate: 68.57%
+ُTotal Open Pull Requests: 0
+Total Closed Pull Requests: 6
+Total Merged Pull Requests: 6
+Total Pull Requests: 6
+Total Merged Pull Requests Rate: 100.0%
+Total Recent Views: 136
+Total Recent Visitors: 98
+Total Yesterday Views: 7
+Total Yesterday Visitors: 7
+Total Recent Clones: 248
+Total Recent Cloners: 229
+Total Yesterday Clones: 22
+Total Yesterday Cloners: 20
+Total Size: 1109.7 MB
+Total Contributors: 593
 
 <h2 align=center> 💻 My Projects </h2>
 
