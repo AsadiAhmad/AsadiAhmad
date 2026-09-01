@@ -26,7 +26,7 @@ sorted language: {'Jupyter Notebook': 49, 'Python': 18, 'CSS': 15, 'JavaScript':
 
 Total Commits: 1815
 
-ُTotal Open Issues: 35
+Total Open Issues: 35
 
 Total Closed Issues: 11
 
