@@ -34,7 +34,7 @@ Total Issues: 24
 
 Total Issue Rate: 68.57%
 
-ُTotal Open Pull Requests: 0
+Total Open Pull Requests: 0
 
 Total Closed Pull Requests: 6
 
